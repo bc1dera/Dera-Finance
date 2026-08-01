@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.vercel.dera_finance1.twa",
+        "sha256_cert_fingerprints": ["20:EC:97:F4:F1:B8:94:5B:6E:80:36:B6:96:95:67:4A:73:C5:F9:A0:D0:06:93:12:FE:E6:8A:38:45:B8:CE:21"]
+      }
+    }]
